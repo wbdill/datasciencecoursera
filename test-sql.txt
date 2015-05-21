@@ -1,3 +1,4 @@
+-- Test
 -- Open transactions on the server
 SELECT * FROM sysprocesses WHERE open_tran = 1
 
